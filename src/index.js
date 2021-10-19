@@ -8,6 +8,7 @@ ReactDOM.render(
   <React.StrictMode>
     <App />
       2
+      3
   </React.StrictMode>,
   document.getElementById('root')
 );
